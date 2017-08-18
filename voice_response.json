@@ -1,0 +1,12 @@
+{
+  "launch_intent":{
+    "en-US":"",
+    "en-GB":"",
+    "de-DE":"Bitte sag mir deine Telefonnummer"
+  },
+  "nummer_intent":{
+    "en-US":"",
+    "en-GB":"",
+    "de-DE":"Deine Telefonnummer ist: {0}"
+  }
+}

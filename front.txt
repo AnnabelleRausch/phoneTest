@@ -1,0 +1,66 @@
+{
+  "intents": [
+    {
+      "slots": [
+        {
+          "name": "NumberI",
+          "type": "AMAZON.NUMBER"
+        },
+        {
+          "name": "NumberII",
+          "type": "AMAZON.NUMBER"
+        },
+        {
+          "name": "NumberIII",
+          "type": "AMAZON.NUMBER"
+        },
+        {
+          "name": "NumberIV",
+          "type": "AMAZON.NUMBER"
+        },
+        {
+          "name": "NumberV",
+          "type": "AMAZON.NUMBER"
+        },
+        {
+          "name": "NumberVI",
+          "type": "AMAZON.NUMBER"
+        },
+        {
+          "name": "NumberVII",
+          "type": "AMAZON.NUMBER"
+        },
+        {
+          "name": "NumberVIII",
+          "type": "AMAZON.NUMBER"
+        },
+        {
+          "name": "NumberIX",
+          "type": "AMAZON.NUMBER"
+        },
+        {
+          "name": "NumberX",
+          "type": "AMAZON.NUMBER"
+        },
+        {
+          "name": "NumberXI",
+          "type": "AMAZON.NUMBER"
+        }
+      ],
+      "intent": "PhoneNumber"
+    }
+  ]
+}
+
+
+PhoneNumber {NumberI}
+PhoneNumber {NumberI} {NumberII}
+PhoneNumber {NumberI} {NumberII} {NumberIII}
+PhoneNumber {NumberI} {NumberII} {NumberIII} {NumberIV}
+PhoneNumber {NumberI} {NumberII} {NumberIII} {NumberIV} {NumberV}
+PhoneNumber {NumberI} {NumberII} {NumberIII} {NumberIV} {NumberV} {NumberVI}
+PhoneNumber {NumberI} {NumberII} {NumberIII} {NumberIV} {NumberV} {NumberVI} {NumberVII}
+PhoneNumber {NumberI} {NumberII} {NumberIII} {NumberIV} {NumberV} {NumberVI} {NumberVII} {NumberVIII}
+PhoneNumber {NumberI} {NumberII} {NumberIII} {NumberIV} {NumberV} {NumberVI} {NumberVII} {NumberVIII} {NumberIX}
+PhoneNumber {NumberI} {NumberII} {NumberIII} {NumberIV} {NumberV} {NumberVI} {NumberVII} {NumberVIII} {NumberIX} {NumberX}
+PhoneNumber {NumberI} {NumberII} {NumberIII} {NumberIV} {NumberV} {NumberVI} {NumberVII} {NumberVIII} {NumberIX} {NumberX} {NumberXI}
